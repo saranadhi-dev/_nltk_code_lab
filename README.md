@@ -17,4 +17,5 @@ deactivate
 
 
 Do these after cloning the code and enter into the project folder like
-git 
+git clone <>
+cd _nltk_code_lab
